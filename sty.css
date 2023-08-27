@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+background-color: black;
+}
+
+.main {
+    text-align: center;
+    font-size: 100px;
+    margin: 20px;
+    padding: 5px;
+    color: rgb(255, 255, 255);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background: rgb(166,129,129);
+    background: linear-gradient(137deg, rgba(166,129,129,1) 5%, rgba(0,0,0,1) 12%, rgba(241,147,244,1) 24%, rgba(0,0,0,1) 38%, rgba(104,184,223,1) 51%, rgba(1,48,72,1) 63%, rgba(1,36,56,1) 71%, rgba(175,198,68,1) 100%);
+
+}
+
+.table {
+    margin: 30px;
+    text-align: center;
+    color: #7cfff8;
+    font-size: 60px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: 10px solid #77c9ff;
+   border-radius: 100px 50px 100px 50px;
+   background-image: url("https://t3.ftcdn.net/jpg/02/66/34/70/360_F_266347082_qnZLppWcnm5a4OA5cGNE1amPi01lpEmV.jpg");
+}
